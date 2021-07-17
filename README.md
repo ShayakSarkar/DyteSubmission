@@ -4,7 +4,7 @@ Submission of the project
 # Installation
 
 1) run the following command
-      npx create-react-app my-app
+      <b><i>npx create-react-app my-app</b></i>
 2) run the following command
       <b><i>npm install react-codemirror2 codemirror --save</i></b>
 3) download the src folder in the repo
