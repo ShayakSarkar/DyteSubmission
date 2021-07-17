@@ -1,0 +1,13 @@
+.Editor{
+    /* width: 500px;
+    height: 320px; */
+    box-shadow: 5px 10px #888888;
+
+}
+
+.Heading{
+    background-color: rgb(179, 174, 174);
+    font-family: arial;
+    font-weight: trebuchet;
+    font-weight: bolder;
+}
